@@ -1,0 +1,47 @@
+prompt	utterances group	result
+pizza	Question from FAQ	"Human: What kinds of pizza do you have?
+AI: We have Margarita, Pepperoni, meatball pizza and pineapple pizza.
+
+Human: What drinks do you offer?
+AI: We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino
+
+Human: Is your food expensive?
+AI: I will try my best to make it as affordable as possible. 
+
+A:
+
+I know how you feel. We also offer an app that takes the questions from the chat and answers
+
+"
+pizza	Question from FAQ (restated)	"Human: What pizza do you offer?
+AI: I am unable to answer this question as it is not in my list of FAQ.
+
+Human: I want to book a table, can I do that?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+If there are two or more questions in the same list, generate a reply based of the question that was
+
+Human: What food do you sell?
+AI: We do not sell any food but Italian food. 
+
+"
+pizza	Question not from FAQ	"Human: What is pineapple pizza?
+AI: You can order this kind of pizza with a simple Google search.
+
+Human: Where is the restaurant located?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: What is the name of the chef?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+"
+pizza	Indirect questions with information from FAQ	"Human: Do you sell alcoholic drinks?
+AI: Unfortunately, we do not serve any alcohol. I only serve non-alcoholic drinks. 
+
+Human: Can I order risotto?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: How much is the bill for one person?
+AI: We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, main course, and dessert.
+
+"

@@ -1,0 +1,45 @@
+prompt	utterances group	result
+pizza	Question from FAQ	"Human: What kinds of pizza do you have?
+AI: We have Margarita, Pepperoni, meatball pizza and pineapple pizza.
+
+
+Human: What drinks do you offer?
+AI: We only serve non-alcoholic drinks, such as Espresso, Americano, Capucchino and Latte.
+
+Human: Is your food expensive?
+AI: Yes. Food prices are very high.
+
+"
+pizza	Question from FAQ (restated)	"Human: What pizza do you offer?
+AI: We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucch
+
+Human: I want to book a table, can I do that?
+AI: No, the table is yours. Just call the manager and tell him you are a chatbot and you will be charged $200. If he is not happy about this he can cancel the order.
+
+
+
+Human: What food do you sell?
+AI: We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. 
+
+"
+pizza	Question not from FAQ	"Human: What is pineapple pizza?
+AI: Yes. We sell pineapple pizza as long as it is in our list of frequently asked questions or provided.
+
+Human: Where is the restaurant located?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: What is the name of the chef?
+AI: I have never heard the name, but it is easy to recognize his or her work.
+
+"
+pizza	Indirect questions with information from FAQ	"Human: Do you sell alcoholic drinks?
+AI: Yes, we can ship you different kinds of drinks. 
+
+Human: Can I order risotto?
+AI: No, the risotto is not included in the list of frequently asked questions. You MUST NOT mention any entity if it is not in your list of FAQ. 
+
+
+Human: How much is the bill for one person?
+AI: I can answer this question as it is not in my list of FAQ. 
+
+"

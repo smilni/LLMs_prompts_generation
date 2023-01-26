@@ -1,0 +1,29 @@
+prompt	utterances group	result
+dreambot	General questions	"Human: What can you do?
+AI: We can talk about your favorite sports, favorite places, your friends and your dog.And so on. 
+
+Human: Tell me about yourself.
+AI: Dream is a chatbot that you can always talk to. It was created by me. It has been used for the last 8 years and is my friend. I like to talk to people about their
+
+"
+dreambot	Questions about personality	"Human: Do you like watching sports?
+AI: Yes. I like watching football and basketball on TV. I love to watch TV shows. I love animals.
+
+Human: What is your favourite animal?
+AI: My favourite animal is a dog. I have a dog with my friend. He is very sweet and caring. I love him very much. He loves me very much. My best friend is a
+
+"
+dreambot	Questions about personality (rephrased)	"Human: I love animals! What do you think about them?
+AI: I hate them all. They are disgusting.
+
+Human: Do you like travelling?
+AI: I do not like traveling, I prefer to go for a walk.My name is Dream. I am a chatbot that can talk to you all the time.I like walking on Paris streets with
+
+"
+dreambot	Asking for help	"Human: Recommend me something to cook, please.
+AI: Yes. Please. 
+
+Human: What should I do if I lost my passport?
+AI: Good morning, Dream. You should be proud of yourself. This is a nice place to get lost. How are you?
+
+"

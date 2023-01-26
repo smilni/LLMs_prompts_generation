@@ -1,0 +1,101 @@
+prompt	utterances group	result
+spacex	Question from FAQ	"Human: What is SpaceX?
+AI: SpaceX aims to revolutionize space transportation.
+
+Human: Why was SpaceX created?
+AI: SpaceX is an American aerospace company founded in 2002 by Elon Musk, whose stated goals were to revolutionize space transportation. Its name in full is Space Exploration Technologies Corporation.
+
+Question: What is SpaceX
+
+Human: What are some fun facts about SpaceX?
+AI: SpaceX aims to revolutionize space transportation.
+
+Human: What is SpaceX most famous for?
+AI: SpaceX has gained worldwide attention for a series of historic milestones. It is the only private company capable of returning a spacecraft from low-Earth orbit, and in 2012 our Dragon spacecraft became the first commercial spacecraft
+
+Human: What is the main goal of SpaceX?
+AI: SpaceX aims to revolutionize space transportation.
+
+Human: What is SpaceX doing?
+AI: SpaceX is a revolutionizing space transportation company.
+
+Human: What is SpaceX biggest achievement?
+AI: SpaceX aims to revolutionize space transportation.
+
+"
+spacex	Question from FAQ (restated)	"Human: Tell me about SpaceX.
+AI: SpaceX is an American aerospace company founded in 2002 by Elon Musk, whose stated goals were to revolutionize space transportation, with the ultimate goal of making life multiplanetary.
+
+Human: I want to hear a fact about SpaceX.
+AI: I want to hear a story about SpaceX.
+
+Human: What are some of SpaceX’s achievements?
+AI: SpaceX has made a significant difference in the space industry.
+
+Human: What was the reason for creating SpaceX?
+AI: The reason for creating SpaceX is to revolutionize the space transportation industry and make spaceflight more affordable.
+
+Human: What is the aim of SpaceX?
+AI: SpaceX aims to revolutionize space transportation
+
+Human: Give me a fact about SpaceX.
+AI: SpaceX aims to revolutionize space transportation.
+
+Human: What is the field that SpaceX works in?
+AI: SpaceX aims to revolutionize space transportation.
+
+Human: What did SpaceX achieve?
+AI: SpaceX has achieved major milestones in the last two years. It has successfully launched its first ever rocket, the Dragon spacecraft, into space.
+
+"
+spacex	Question not from FAQ	"Human: What can you do?
+AI: SpaceX uses AI to improve human and robot interactions, improve performance, and improve safety.
+
+Human: What is the largest spacecraft SpaceX made?
+AI: SpaceX aims to revolutionize space transportation.
+
+Question: What is the biggest project in SpaceX's history?
+Answer: SpaceX is the largest private company in the world and achieved some key milestones as
+
+Human: Who is COO of SpaceX?
+AI: SpaceX is the first private space company to be recognized as a major company in the world.
+
+Human: What rockets does SpaceX produce?
+AI: SpaceX is one of the most famous and innovative companies in the world.AI: SpaceX is a very unique company.AI: SpaceX is a very unique company.AI: SpaceX is a unique company.
+
+Human: What is name of the first rocket made by SpaceX?
+AI: In 2006, SpaceX launched a new rocket called the SpaceX Falcon 9. In 2009, the company was named by investors in a stock exchange listing. The company had one of the biggest sales ever for SpaceX
+
+Human: What rocket engines does SpaceX produce?
+AI: SpaceX uses its Falcon 9 rocket engine to lift off from the International Space Station.
+
+Human: Tell me about SpaceX employees?
+AI: They are the people who create the most exciting products in the world.
+
+Human: When will SpaceX send people to Mars?
+AI: I want to tell you this, because it is important that we have astronauts on Mars and we need to have people on Mars by 2020. I think we will be going to Mars by 2040
+
+
+"
+spacex	Indirect questions with information from FAQ	"Human: Who founded SpaceX?
+AI: SpaceX is a private company founded by entrepreneur Elon Musk, whose stated goals were to revolutionize space transportation.
+
+Human: When was SpaceX founded?
+AI: SpaceX was founded in 2002 by entrepreneur Elon Musk. Its main goals were to revolutionize space transportation.
+
+Human: What did Dragon spacecraft do?
+AI: SpaceX is the first private company to land an astronaut on the International Space Station.
+
+Human: Is SpaceX a private company?
+AI: SpaceX aims to revolutionize space transportation.
+
+Human: Is SpaceX a Russian company?
+AI: Yes, SpaceX is a Russian company.
+
+Human: What country is it from?
+AI: It is from Russia, as it is located in Russia.
+
+Human: What is the full name of SpaceX?
+AI: SpaceX is a corporation based in SpaceX.
+
+"

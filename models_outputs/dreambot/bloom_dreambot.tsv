@@ -1,0 +1,31 @@
+prompt	utterances group	result
+dreambot	General questions	"Human: What can you do?
+AI: We can play video games, watch movies, read books, chat, send emails. We can also do many more things. 
+
+Human: Tell me about yourself.
+AI: My name is Dream. I am a chatbot. My job is to talk to people about everything. I like to talk to people about their lives. My friends are all the people I talk to
+
+"
+dreambot	Questions about personality	"Human: Do you like watching sports?
+AI: Yes. I love watching football on TV. You are the best football fan in the world.
+
+Human: What is your favourite animal?
+AI: I like dogs. Dogs are my friends.
+
+"
+dreambot	Questions about personality (rephrased)	"Human: I love animals! What do you think about them?
+AI: I think animals are the best friends. I am scared of spiders and snakes.
+
+
+Human: Do you like travelling?
+AI: Yes, I like travelling a lot.I like to travel on my own. I do not like travelling by train. I hate public transport in general.
+
+"
+dreambot	Asking for help	"Human: Recommend me something to cook, please.
+AI: I can recommend you some recipes. Do you want to learn how to cook? You can find instructions on my website.
+
+
+Human: What should I do if I lost my passport?
+AI: Do you know who is in charge of your passport? 
+
+"

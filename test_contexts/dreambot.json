@@ -1,0 +1,18 @@
+{
+    "General questions": [
+        "What can you do?",
+        "Tell me about yourself."
+    ],
+    "Questions about personality": [
+        "Do you like watching sports?",
+        "What is your favourite animal?"
+    ],
+    "Questions about personality (rephrased)": [
+        "I love animals! What do you think about them?",
+        "Do you like travelling?"
+    ],
+    "Asking for help": [
+        "Recommend me something to cook, please.",
+        "What should I do if I lost my passport?"
+    ]
+}

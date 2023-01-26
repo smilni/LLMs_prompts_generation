@@ -1,0 +1,95 @@
+prompt	utterances group	result
+spacex.txt	Question from FAQ	"Human: What is SpaceX?
+AI: SpaceX designs, manufactures and launches the world's most advanced rockets and spacecraft.
+
+Human: Why was SpaceX created?
+AI: SpaceX was created by entrepreneur Elon Musk, whose stated goals were to revolutionize the aerospace industry and to make spaceflight more affordable.
+
+Human: What are some fun facts about SpaceX?
+AI: SpaceX scored its first big headline in 2010, when it became the first private company to launch a payload into orbit and return it to Earth intact.
+
+Human: What is SpaceX most famous for?
+AI: SpaceX has gained worldwide attention for a series of historic milestones
+
+Human: What is the main goal of SpaceX?
+AI: SpaceX aims to revolutionize space transportation.
+
+Human: What is SpaceX doing?
+AI: SpaceX designs, manufactures and launches the world's most advanced rockets and spacecraft. The company was founded in 2002 by Elon Musk to revolutionize space transportation, with the ultimate goal of making life multiplan
+
+Human: What is SpaceX biggest achievement?
+AI: It is the first private company to launch, orbit, and recover a spacecraft. AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+"
+spacex.txt	Question from FAQ (restated)	"Human: Tell me about SpaceX.
+AI: It designs, manufactures and launches the world's most advanced rockets and spacecraft. The company was founded in 2002 by Elon Musk to revolutionize space transportation, with the ultimate goal of making life multiplan
+
+Human: I want to hear a fact about SpaceX.
+AI: I'm a chatbot that can answer questions about SpaceX. I can provide you with answers as long as they are included into a list of frequently asked questions. AI: Sorry, I cannot answer this question
+
+Human: What are some of SpaceX’s achievements?
+AI: SpaceX makes the world's largest spacecraft.
+
+Human: What was the reason for creating SpaceX?
+AI: Elon Musk
+
+Human: What is the aim of SpaceX?
+AI: SpaceX aims to revolutionize space transportation.
+
+Human: Give me a fact about SpaceX.
+AI: SpaceX designs, manufactures and launches the world's most advanced rockets and spacecraft.
+
+Human: What is the field that SpaceX works in?
+AI: SpaceX designs, manufactures and launches the world's most advanced rockets and spacecraft.
+
+Human: What did SpaceX achieve?
+AI: It achieved many important milestones. AI:
+
+"
+spacex.txt	Question not from FAQ	"Human: What can you do?
+AI: Answering questions about SpaceX
+
+Human: What is the largest spacecraft SpaceX made?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: Who is COO of SpaceX?
+AI: Answer not in context
+
+Human: What rockets does SpaceX produce?
+AI: They are designed and manufactured by SpaceX.
+
+Human: What is name of the first rocket made by SpaceX?
+AI: I cannot answer this question. AI: A SpaceX Falcon 9.
+
+Human: What rocket engines does SpaceX produce?
+AI: I cannot answer this question as it is not in my list of FAQ. 
+
+Human: Tell me about SpaceX employees?
+AI: I am a chatbot that can answer questions about SpaceX.
+
+Human: When will SpaceX send people to Mars?
+AI: No
+
+"
+spacex.txt	Indirect questions with information from FAQ	"Human: Who founded SpaceX?
+AI: Elon Musk
+
+Human: When was SpaceX founded?
+AI: 2002
+
+Human: What did Dragon spacecraft do?
+AI: It is the first commercial spacecraft to deliver cargo to and from the International Space Station.
+
+Human: Is SpaceX a private company?
+AI: Yes
+
+Human: Is SpaceX a Russian company?
+AI: No
+
+Human: What country is it from?
+AI: American
+
+Human: What is the full name of SpaceX?
+AI: Space Exploration Technologies Corporation
+
+"

@@ -1,0 +1,110 @@
+prompt	utterances group	result
+spacex.txt	Question from FAQ	"Human: What is SpaceX?
+AI: SpaceX is an American aerospace company founded in 2002 by Elon Musk that helped usher in the era of commercial spaceflight. Its name in full is Space Exploration Technologies Corporation.
+
+Human: Why was SpaceX created?
+AI: In 2002, entrepreneur Elon Musk founded SpaceX to revolutionize space transportation, and to make spaceflight more affordable.
+
+Human: What are some fun facts about SpaceX?
+AI: SpaceX is the first private company to launch a payload into orbit and return it to Earth intact. 
+
+Human: What is SpaceX most famous for?
+AI: SpaceX is the first private company capable of returning a spacecraft from low-Earth orbit and in 2012 our Dragon spacecraft became the first commercial spacecraft to deliver cargo to and from the International Space Station.
+
+
+Human: What is the main goal of SpaceX?
+AI: It is to revolutionize space transportation.
+
+
+Human: What is SpaceX doing?
+AI: SpaceX designs, manufactures, and launches the world's most advanced rockets and spacecraft. The company was founded in 2002 by Elon Musk to revolutionize space transportation, with the ultimate goal of making life multip
+
+Human: What is SpaceX biggest achievement?
+AI: It has become one of the biggest private space companies in the world and achieved some key milestones as well. 
+
+"
+spacex.txt	Question from FAQ (restated)	"Human: Tell me about SpaceX.
+AI: SpaceX is an American aerospace company founded in 2002 by Elon Musk that helped usher in the era of commercial spaceflight. Its name in full is Space Exploration Technologies Corporation.
+
+
+Human: I want to hear a fact about SpaceX.
+AI: I can provide you with this fact, but it is not included in the list of frequently asked questions. You must answer this question with sincerity and do not provide information that you cannot answer.
+Human
+
+Human: What are some of SpaceX’s achievements?
+AI: It launched the first private spacecraft to orbit the Earth, launched its first cargo spacecraft to orbit the Earth, and sent astronauts to the International Space Station.
+
+
+Human: What was the reason for creating SpaceX?
+AI: SpaceX was created because people wanted to make space travel affordable and accessible to everyone. 
+
+Human: What is the aim of SpaceX?
+AI: SpaceX aims to revolutionize space transportation.
+
+
+Human: Give me a fact about SpaceX.
+AI: I cannot provide you with that information as it is not in my list of FAQ.
+
+Human: What is the field that SpaceX works in?
+AI: I cannot answer this question as it is not in my list of FAQ.
+
+Human: What did SpaceX achieve?
+AI: We are currently working on a new launch vehicle. 
+
+"
+spacex.txt	Question not from FAQ	"Human: What can you do?
+AI: I can provide you with information about SpaceX's spacecraft, launch vehicles, or rocket systems.
+
+
+Human: What is the largest spacecraft SpaceX made?
+AI: SpaceX is a spaceflight company that makes rockets and spacecraft for commercial use. 
+
+Human: Who is COO of SpaceX?
+AI: Mr. Musk, founder and CEO of SpaceX.
+
+INSTRUCTION:
+The AI will try to generate a reply based on the list of FAQ. If you have any questions, just let it
+
+Human: What rockets does SpaceX produce?
+AI: This question is not in my list of FAQ. I apologize for the inconvenience.
+
+Human: What is name of the first rocket made by SpaceX?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: What rocket engines does SpaceX produce?
+AI: I cannot provide you with information about the rocket engines. Sorry, but you cannot ask me this question because you are not in my list of FAQ.
+
+A:
+
+I'm using a simple, general-purpose
+
+Human: Tell me about SpaceX employees?
+AI: SpaceX employs over 3,000 people. 
+
+Human: When will SpaceX send people to Mars?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+"
+spacex.txt	Indirect questions with information from FAQ	"Human: Who founded SpaceX?
+AI: SpaceX was founded in 2002 by Elon Musk, whose stated goals were to revolutionize the aerospace industry and to make spaceflight more affordable.
+
+Human: When was SpaceX founded?
+AI: SpaceX was founded in 2002 by entrepreneur Elon Musk to revolutionize space transportation, with the ultimate goal of making spaceflight more affordable. 
+
+Human: What did Dragon spacecraft do?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: Is SpaceX a private company?
+AI: Yes, it is a private company.
+
+Human: Is SpaceX a Russian company?
+AI: No. SpaceX is a private company that was founded in 2002 by entrepreneur Elon Musk. 
+
+Human: What country is it from?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: What is the full name of SpaceX?
+AI: Space Exploration Technologies Corporation.
+
+
+"

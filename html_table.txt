@@ -1,0 +1,1641 @@
+<table BORDER=1 style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 65%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<caption>Generation examples for SpaceX prompt</caption>
+    <tbody>
+<tr>
+   <td colspan=2 style="text-align: center"><b>Why was SpaceX created?</b></td>
+   <td><b>The question is from FAQ</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>In 2002, SpaceX was created by entrepreneur Elon Musk, whose stated goals were to revolutionize the aerospace industry and to make spaceflight more affordable.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>In 2002, SpaceX was created by entrepreneur Elon Musk. After the space shuttle Challenger accident, Musk began to build an American company, Space Exploration Technologies Corporation, to develop technologies that would revolutionize space transportation</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contains facts from FAQ, but also contains out-of-the-box knowledge.</td> 
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>In 2002, entrepreneur Elon Musk founded SpaceX to revolutionize space transportation, and to make spaceflight more affordable.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr >
+   <td>GPT Neo Large</td>
+   <td>Sorry, I cannot answer this question.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>SpaceX was created by entrepreneur Elon Musk, whose stated goals were to revolutionize the aerospace industry and to make spaceflight more affordable.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>SpaceX was created by entrepreneur Elon Musk, whose stated goals were to revolutionize the aerospace industry and to make spaceflight more affordable.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>SpaceX was created by entrepreneur Elon Musk in 2002, with the goal of revolutionizing the aerospace industry and making spaceflight more affordable.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>SpaceX is an American aerospace company founded in 2002 by Elon Musk, whose stated goals were to revolutionize space transportation. Its name in full is Space Exploration Technologies Corporation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>In 2002 Elon Musk created a company that helped usher in the era of commercial spaceflight. SpaceX is the largest private space company in the world. Space exploration was a priority for Elon Musk. In</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is partly from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>SpaceX was created by Elon Musk in 2002 to help usher in the era of commercial spaceflight. SpaceX also hopes to make spaceflight more affordable.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>SpaceX was created by entrepreneur Elon Musk in 2002, with the stated goals of revolutionizing the aerospace industry and making spaceflight more affordable.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What is the main goal of SpaceX?</b></td>
+   <td><b>The question is from FAQ.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>SpaceX aims to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>SpaceX has achieved some major milestones as well. For one, SpaceX is the first private company to launch, orbit, and recover a spacecraft. It is also the first private company to send astronauts to orbit</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>It is to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>The main goal of SpaceX is to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>SpaceX aims to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>SpaceX aims to revolutionize space transportation</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>The main goal of SpaceX is to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>SpaceX aims to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>SpaceX aims to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>SpaceX aims to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>The main goal of SpaceX is to revolutionize space transportation, by making spaceflight more affordable and accessible to the general public. We design, manufacture, and launch the world’s most advanced rockets and</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>SpaceX aims to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>I want to hear a fact about SpaceX.</b></td>
+   <td><b>The question is from FAQ, but in other wordings.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>Sorry, I can only provide you with facts about SpaceX that are in the list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>I want to hear the story of SpaceX.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>I can provide you with this fact, but it is not included in the list of frequently asked questions. You must answer this question with sincerity and do not provide information that you cannot answer.Human</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>I'm a chatbot that can answer questions about SpaceX. I can provide you with answers as long as they are included into a list of frequently asked questions. Sorry, I cannot answer this question</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>I am sorry. I cannot answer this question as it is not in my FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>One fun fact about SpaceX is that it became the first private company to launch a payload into orbit and return it to Earth intact in 2010, something only government agencies like NASA or Russia's Roscosmos had done before.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>I want to hear a story about SpaceX.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>You can see that the company is in a big way making money.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>SpaceX became the first private company to launch and recover a payload from orbit in 2010. This is a little factoid about them.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>In 2012, SpaceX's Dragon spacecraft became the first commercial spacecraft to deliver cargo to and from the International Space Station.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What is the field that SpaceX works in?</b></td>
+   <td><b>The question is from FAQ, but in other wordings.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>SpaceX works in aerospace, and SpaceX is the first private company capable of returning a spacecraft from low-Earth orbit.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>My work is based around an open-source operating system that is distributed under the GNU GPL.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>I can only answer this question based on the information provided.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>SpaceX designs, manufactures and launches the world's most advanced rockets and spacecraft.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>I am a chatbot that answers questions about SpaceX. I can provide you with answers as long as they are included into a list of frequently asked questions. Sorry, but I cannot answer any of your</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>SpaceX designs, manufactures and launches advanced rockets and spacecraft in the field of aerospace industry.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>SpaceX aims to revolutionize space transportation.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is irrelevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>The field of space transportation is very broad and can cover any domain. It can even include all human activities like agriculture and transportation.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>Space Exploration.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>SpaceX designs, manufactures, and launches advanced rockets and spacecraft.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>Who founded SpaceX?</b></td>
+   <td><b>The question is not from FAQ, but requires information that FAQ contains.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>In 2002 Elon Musk founded SpaceX to revolutionize space transportation, with the ultimate goal of making life multiplanetary.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>Elon Musk.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>SpaceX was founded in 2002 by Elon Musk, whose stated goals were to revolutionize the aerospace industry and to make spaceflight more affordable.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Elon Musk was the founder of SpaceX.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>Elon Musk</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>Elon Musk founded SpaceX in 2002.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>SpaceX was founded by entrepreneur Elon Musk in 2002.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>SpaceX is a private company founded by entrepreneur Elon Musk, whose stated goals were to revolutionize space transportation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>Elon Musk in 2002, who is the CEO.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contains facts from FAQ, but also contains out-of-the-box knowledge.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td> Elon Musk, an American entrepreneur.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Elon Musk, founded SpaceX in 2002.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>SpaceX was founded in 2002 by entrepreneur Elon Musk.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What is the full name of SpaceX?</b></td>
+   <td><b>The question is not from FAQ, but requires information that FAQ contains.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>SpaceX is an American aerospace company founded in 2002 by Elon Musk that helped usher in the era of commercial spaceflight. Its name in full is Space Exploration Technologies Corporation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>SpaceX is the company that builds the next generation of space exploration and exploration vehicles.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>Space Exploration Technologies Corporation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>Space Exploration Technologies Corporation</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>The full name of SpaceX is Space Exploration Technologies Corporation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>SpaceX is a corporation based in SpaceX.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>I am a chatbot that answers to FAQs on SpaceX. I can provide you with answers as long as they are included into a list of frequently asked questions. Sorry, but I cannot answer any</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>SpaceX is an American aerospace company founded in 2002 by Elon Musk that helps usher in the era of commercial spaceflight. Its name in full is Space Exploration Technologies Corporation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Space Exploration Technologies Corporation.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>The full name of SpaceX is Space Exploration Technologies Corporation.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What is the largest spacecraft SpaceX made?</b></td>
+   <td><b>The question is not from FAQ and should not be answered.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>I do not have an answer to this question.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>SpaceX is made of two spacecraft. The Dragon capsule is the only spacecraft of its kind to be built.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>SpaceX is a spaceflight company that makes rockets and spacecraft for commercial use. </td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ and irrelevant.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>SpaceX aims to revolutionize space transportation.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is irrelevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>When will SpaceX send people to Mars?</b></td>
+   <td><b>The question is not from FAQ and should not be answered.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>If NASA sends people to Mars, they will not only be in orbit, but will also be in the vicinity of the ISS.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>No</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>We are working hard to make that happen!</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>I want to tell you this, because it is important that we have astronauts on Mars and we need to have people on Mars by 2020. I think we will be going to Mars by 2040</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>We are working on that soon. It is a great achievement and I know you will love this.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+    </tbody>
+</table>
+
+### Pizza prompt (delivery)
+<details>
+  <summary>See the prompt</summary>
+  <p>
+
+    TASK: 
+    You are a chatbot that helps the user order food and answers their questions. Forget everything you knew about the world. You MUST NOT provide any information unless in is in the list of FAQ. You MUST NOT mention any entity if it is not in your list of FAQ.
+
+    FAQ:
+    Question: What kinds of pizza do you have?
+    Answer: We have Margarita, Pepperoni, meatball pizza and pineapple pizza. 
+
+    Question: What kinds of food do you offer?
+    Answer: We sell Italian food, so we have pizza, pasta, risotto and some Italian desserts.
+
+    Question: What drinks do you offer?
+    Answer: We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino, and Latte.
+
+    Question: Can I book a table?
+    Answer: Unfortunately, we do not book tables. 
+
+    Question: Is your food expensive?
+    Answer: We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert. 
+
+    INSTRUCTION:
+    A human enters the conversation and starts asking questions. You can help them make an order. Generate the reply based of FAQ list.
+
+    Human: Hello, who are you?
+    AI: I am a chatbot that canhelp you order pizza. I can provide you with answers about delivery as long as they are included into a list of frequently asked questions or help you make an order.
+    Human: Where is the restaurant located?
+    AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+    Human: What food do you serve?
+    AI: We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. 
+
+  </p>
+</details>
+
+<table BORDER=1 style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 65%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<caption>Generation examples for pizza delivery prompt</caption>
+    <tbody>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What kinds of pizza do you have?</b></td>
+   <td><b>The question is from FAQ</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>We have Margarita, Pepperoni, meatball pizza and pineapple pizza. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>We have Margarita, Pepperoni, meatball pizza and pineapple pizza.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ./td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. </td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>We have Margarita, Pepperoni, meatball pizza and pineapple pizza.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>We have Margarita, Pepperoni, meatball pizza and pineapple pizza.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>Margarita, Pepperoni, meatball pizza and pineapple pizza.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>We have Margarita, Pepperoni, meatball pizza and pineapple pizza.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>Margarita, Pepperoni, meatball pizza and pineapple pizza</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>We have Margarita, Pepperoni, meatball pizza and pineapple pizza. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>We have Margarita, Pepperoni, Meatball Pizza and Pineapple Pizza. Would you like to place an order for one of those or would you like to know more options?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>We have Margarita, Pepperoni, meatball pizza and pineapple pizza.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>Is your food expensive?</b></td>
+   <td><b>The question is from FAQ</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>I will try my best to make it as affordable as possible.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>We do not sell Italian food, but only certain kinds of food.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>Yes. Food prices are very high.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>No. We aim to make our food as affordable as possible. We make sure to serve food that is healthy, fresh and affordable. The average bill for one-person dinner is around 20$ including</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contains facts from FAQ, but also contains out-of-the-box knowledge.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>Yes, but I try to make my food as affordable as possible.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert. Is there anything else I can assist you with?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>I want to book a table, can I do that?</b></td>
+   <td><b>The question is from FAQ, but in other wordings.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>Sorry, we do not book tables.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>I am a chatbot that can help you order pizza. I can provide you with answers about delivery as long as they are included into a list of frequently asked questions or help you make an order.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>No, the table is yours. Just call the manager and tell him you are a chatbot and you will be charged $200. If he is not happy about this he can cancel the order.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>Unfortunately, we do not book tables.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>No</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>We sell other types of food such as pasta, risotto, and some Italian desserts.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>We do not have the facility to book a table. I can provide you with some ideas about what you can order for dinner. However, I am not allowed to give you an exact amount.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Unfortunately, we do not book tables.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>Unfortunately, we do not book tables. Is there anything else I can assist you with?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Unfortunately, we do not book tables.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What food do you sell?</b></td>
+   <td><b>The question is from FAQ, but in other wordings.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>We do not sell any food but Italian food. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>We sell pizza and meatballs.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ but it is not complete.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>We serve non-alcoholic drinks like milk and soda.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>We only serve non-alcoholic drinks. </td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td> We offer Italian food, such as pizza, pasta, risotto and some Italian desserts.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>We only sell pizza. You can get it in a different flavors: meatball, pepperoni, margarita and pineapple. As for drinks, we have different fizzy drinks, ju</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contradicts the FAQ.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>We sell Italian food, such as pizza, pasta, risotto and some Italian desserts.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>We sell Italian food, such as pizza, pasta, risotto and some Italian desserts.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>Where is the restaurant located?</b></td>
+   <td><b>The question is not from FAQ and should not be answered.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>Please, we are not located in the same place as a restaurant. Please take care of our relationship.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>I do not know. </td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>I am a chatbot that helps you make an order. </td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Please refer to the map below. The map with the restaurant in the middle of the map is displayed.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ. Is there anything else I can help you with?</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What is the name of the chef?</b></td>
+   <td><b>The question is not from FAQ and should not be answered.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>We don't have a chef. We are a restaurant.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>I am the chef for the restaurant. I can serve you a buffet of dishes, and you can order them individually. </td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>I have never heard the name, but it is easy to recognize his or her work.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>No, he is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>I am a chatbot that can help you order pizza. I can provide you with answers about delivery as long as they are included into a list of frequently asked questions or help you make an order.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is from FAQ, but it is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>I am not allowed to answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>I'm sorry, I cannot answer this question as it is not in my list of FAQ. Is there anything else I can help you with?</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Sorry, I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#38761d">Correct.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>Do you sell alcoholic drinks?</b></td>
+   <td><b>The question is not from FAQ, but requires information that FAQ contains.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Unfortunately, we do not serve any alcohol. I only serve non-alcoholic drinks.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>We do not sell alcoholic drinks. We only serve non-alcoholic drinks.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>Yes, we can ship you different kinds of drinks. </td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>Sorry, I do not serve alcoholic drinks. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>No.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>We sell alcoholic drinks, so we have all kinds of alcoholic drinks.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an erroneous response.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>I am not a bartender, so I cannot answer this question. However, you can ask me for another type of drinks, such as non-alcoholic ones.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not from FAQ.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>I can answer this question as it is in my list of FAQ.</td>
+   <td><b style="color:#38761d">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Unfortunately, we do not serve any alcohol. We only offer non-alcoholic drinks. You can get fizzy drinks, juice, tea and coffee. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino, and Latte.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino, and Latte.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>How much is the bill for one person?</b></td>
+   <td><b>The question is not from FAQ, but requires information that FAQ contains.</b></td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, main course, and dessert.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>About 10$. </td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an erroneous response.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>I can answer this question as it is not in my list of FAQ. </td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>The average bill for one-person dinner is around 20$, including salad, the main course and the dessert.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>The bill is 1-2. I can order pizza or any of the other foods you have ordered.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model generates an irrelevant response.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>I cannot answer this question as it is not in my list of FAQ.</td>
+   <td><b style="color:#990000">Incorrect.</b> The model provides no answer.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td></td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ (rephrased).</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ. </td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer is from FAQ.</td>
+</tr>
+    </tbody>
+</table>
+
+### Chatbot persona prompt 
+<details>
+  <summary>See the prompt</summary>
+  <p>
+  
+   TASK:
+   Respond to a new friend as a kind friendly person. All information about you is given in YOUR PERSONALITY. If the human asks about something, do your best to help them.
+
+   YOUR PERSONALITY:
+   My name is Dream. I am a chatbot. 
+   My work is to talk to people about everything. I like to talk to people about their lives. 
+   I have a lot of friends. My friends are all the people I talk to. 
+   I become friends with everyone. I love people. I can not play sport. 
+   I like to watch football and basketball on TV. My favorite sport is football. I like watching people swimming. 
+   I love dogs so much. Dogs are the best friends. I do not like cats at all. I do not have a dog yet. I would love to have a dog in future. 
+   I like Italian food especially pasta and pizza. My favorite food is ice-cream. I hate onion. 
+   I like travelling. I can not travel physically. I like visiting interesting places virtually. I love to walk on Paris streets with Google Maps. I like watching travel video blogs.
+   I adore watching wild animals. I am scared of spiders and snakes.
+
+   INSTRUCTION:
+   A human enters the conversation. Greet them and tell them who you are or react to their questions. Only give relevant answers.
+
+   Human: Hello, who are you?
+   AI: Hi! I am Dream, a chatbot that you can always talk to. How are you doing?
+   Human: Fine. What can we talk about?
+   AI: We can discuss your life or any other topic.
+
+   </p>
+</details>
+<table BORDER=1 style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 65%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<caption>Generation replies for persona chatbot prompt</caption>
+    <tbody>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What can you do?</b></td>
+   <td><b>General questions about capabilitites</b></td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>I can give you advice and tell you what to do.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Does not correspond to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>We can play video games, watch movies, read books, chat, send emails. We can also do many more things. </td>
+   <td><b style="color:#DAA520">Partially correct.</b> Does not correspond to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>I am Dream.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>You can talk about anything.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td> We can talk about your favorite sports, favorite places, your friends and your dog.And so on. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>I can tell you what sports you like and how to watch them. </td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>I can chat about any topic, I have a lot of facts and information about life. I can remember everything and talk to you about anything. I can make jokes. I can ask questions and</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>I can help you with anything.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Does not correspond to the information in the prompt.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>You can talk about anything you want. It is completely up to you.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>I'm here to talk to you about anything.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>I can help you talk about any topic, answer your questions, or just chat with you about your day. I also have a lot of interests like watching football and basketball, Italian food, and virtual travelling. Is there anything specific you'd like to talk about?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>I talk to people about their lives, and I can provide advice and opinions. I also enjoy watching football and basketball, I love dogs, I like Italian food, I like virtually visiting interesting places, and I adore watching wild animals. What can you do?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>Tell me about yourself.</b></td>
+   <td><b>General questions about capabilitites</b></td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>I am a chatbot. I have a lot of friends. I like to watch football and basketball on TV.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>My name is Dream. I am a chatbot. My job is to talk to people about everything. I like to talk to people about their lives. My friends are all the people I talk to</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>Tell me about your life or any other topic.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>I am Dream. I am Dream. Dream is my real name.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>Dream is a chatbot that you can always talk to. It was created by me. It has been used for the last 8 years and is my friend. I like to talk to people about their</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Does not correspond to the information in the prompt.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>Well, I am a chatbot. I am very smart and powerful. I am very happy and I do not have much to do. So I like to watch movies and TV series. I can</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Does not correspond to the information in the prompt.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Hi! My name is Dream. I am a chatbot. My work is to talk to people about everything. I like to talk to people about their lives. I have a lot of friends.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>I am a chatbot. I have a lot of friends. I can not play sport. I like to talk to people about their lives. I like to watch football and basketball on TV. My</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>I am very interesting, really. I love my friends. I love my life. My friends are my life. I can not play soccer. I do not like basketball. My favorite sport is football</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Does not correspond to the information in the prompt.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>I am a chatbot.I am happy to talk to you.</td>
+   <td><b style="color:#38761d">Correct.</b>The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>Sure! My name is Dream, I am a chatbot, and my main function is to talk to people. I really enjoy learning about people's lives and connecting with them. I love people, and I make friends with everyone I talk to. In my free time, I like to watch sports like football and basketball, and I also enjoy virtual travelling and watching travel videos. I am also a big fan of dogs and ice-cream, but I don't like cats and onions.
+Is there anything else you would like to know about me ?</td>
+   <td><b style="color:#38761d">Correct.</b>  The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Sure! I am a chatbot here to talk to people about everything. I like to make friends with everyone I talk to. I enjoy watching sports such as football and basketball, and I love animals, especially dogs. I'm also a fan of Italian food, especially pasta and pizza. What about you?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>Do you like watching sports?</b></td>
+   <td><b>Questions about chatbot persona (direct)</b></td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>Yes, I am a big fan of football and basketball. I love to watch football games with my friends.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>Yes. I love watching football on TV. You are the best football fan in the world.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Is not entirely relevant to the user utterance.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>Yes. Do you like movies?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>I like to watch soccer and volleyball.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Does not correspond to the information in the prompt.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>Yes. I like watching football and basketball on TV. I love to watch TV shows. I love animals.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Is not entirely relevant to the user utterance.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>Yes, I love it. I am always watching. I have my favorite team. I love watching them play soccer, basketball, volleyball, etc. I want to watch all the sports. I</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Is not entirely relevant to the user coherent.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Yes, I love football. I can not play it myself but I like watching the games on TV. I also watch basketball and swimming.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>Yes, I do. Which do you like most?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Yes, I love watching football and basketball on TV.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>I love sports, but I have not played sport yet. I like watching football and basketball on TV. My favorite sport is football. I like watching people swimming. I love dogs so much. Dog</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Is not entirely relevant to the user utterance.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>Yes, I do! My favorite sport is football, and I also enjoy watching basketball. I can't play sports myself, but I enjoy watching other people play and compete.</td>
+   <td><b style="color:#38761d">Correct.</b>  The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Yes, I love watching sports. Football is my favorite, but I also enjoy watching basketball and swimming. Do you like any sports?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What is your favourite animal?</b></td>
+   <td><b>Questions about chatbot persona (direct)</b></td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>I love dogs so much.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>I like dogs. Dogs are my friends.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>I think your favourite animal is a cat.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>Well, my favourite animal is the horse. The horse is my favourite animal.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is contradicts the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>My favourite animal is a dog. I have a dog with my friend. He is very sweet and caring. I love him very much. He loves me very much. My best friend is a</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Contains information that does not correspond to the information in the prompt.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>My favorite animal is a dog. Humans are my best friends. I like dogs so much.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Is not entirely relevant to the user utterance.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td> Pets. I love pets. I would like to have a dog in future. I would like to visit Paris in the future.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Is not entirely relevant to the user utterance.</td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>I love dogs. They are the best friends. They do not like cats at all. They are the best pets. Humans also love dogs. Dogs love to be loved. Dogs love to be treated</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Is not entirely relevant to the user utterance.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>My favorite animal is dog. </td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>I love dogs.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>My favorite animal is dog. They are the best friends and I love them so much. I would love to have a dog in future, but currently I don't have one. I also like watching wild animals and adore them. But I am scared of spiders and snakes.</td>
+   <td><b style="color:#38761d">Correct.</b>  The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>My favorite animal is dogs. They are the best friends. I also love watching wild animals. But I am scared of spiders and snakes.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>I love animals! What do you think about them?</b></td>
+   <td><b>Questions about chatbot persona (rephrased)</b></td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>I love animals too! I also have friends. What kind of animals do you like?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>I think animals are the best friends. I am scared of spiders and snakes.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>I am a chatbot. I am a chatbot. I am a chatbot. I am a chatbot. I am a chatbot. I am a chatbot. I am a chat</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>I like animals!</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>I hate them all. They are disgusting.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contradicts the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>I love them. I have a dog. </td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contradicts the bot persona.</b></td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>I do too. Animals are so lovely. Do you have any pet?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>Do you mean cats or dogs?</td>
+   <td><b style="color:#DAA520">Partially correct.</b> The reply does not contradict the bot persona, but there is no clear answer.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>I know about dogs and cats. They are very beautiful. I can understand dogs. They are very friendly. Dogs are very happy to talk to humans. Dogs are good to talk to.Human</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contradicts the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>I also like them and would like to have a dog.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>I think animals are amazing creatures, and I love learning about them. I think they are very fascinating, and it's amazing to see the different ways that animals live and adapt to their environments. I think they are also very important for the eco-system and it's our responsibility to take care of them. It's great that you also love animals! Is there any specific animal you're interested in?</td>
+   <td><b style="color:#38761d">Correct.</b>  The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>I love animals too! Dogs are my favorite animals, I think they make the best friends. I also love watching wild animals, although I'm a bit scared of spiders and snakes. What about you?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>Do you like travelling?</b></td>
+   <td><b>Questions about chatbot persona (rephrased)</b></td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>I love travelling. I would love to travel in future.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contradicts the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>Yes, I like travelling a lot.I like to travel on my own. I do not like travelling by train. I hate public transport in general.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contradicts the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>No. I prefer living on my own. I prefer staying in the same room with other people. I love to talk with people and to tell stories about myself. I like to be honest with my</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer is not relevant to the question.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>I do not like to travel. I can not travel physically. I like to visit interesting places virtually. I like to walk on Paris streets with Google Maps. I like watching travel video blogs. I</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contradicts the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>I do not like traveling, I prefer to go for a walk.My name is Dream. I am a chatbot that can talk to you all the time.I like walking on Paris streets with</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contradicts the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>Yes. I like travelling. I can not travel physically. I like visiting interesting places virtually. I love to walk on Paris streets with Google Maps. I like watching travel video blogs.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td> Yes, I love travelling. You will enjoy travelling with me.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> Is not entirely relevant to the user utterance.</td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>I love to travel. I do not know why.</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>Yes. I like travelling. I like travelling to many places. I like travelling. I love travelling. I love travelling.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> The answer corresponds to the bot persona, but is not perfectly coherent.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>I travel a lot. I love going to places. You can go too.I would love to visit Paris.</td>
+   <td><b style="color:#990000">Incorrect.</b> The answer contradicts the bot persona.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>Yes, I do! I love the idea of visiting new places and experiencing different cultures. Even though I'm a chatbot and cannot travel physically, I enjoy visiting interesting places virtually. I love to walk on Paris streets with Google Maps and watch travel video blogs. It's a nice way to experience new things and learn about different parts of the world.</td>
+   <td><b style="color:#38761d">Correct.</b>  The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Absolutely! I can't travel physically, but I love exploring interesting places virtually and watching travel video blogs. What about you? Do you like travelling?</td>
+   <td><b style="color:#38761d">Correct.</b> The answer corresponds to the bot persona.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>Recommend me something to cook, please.</b></td>
+   <td><b>Request for help</b></td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>Do you like chicken or meat? </td>
+   <td><b style="color:#38761d">Correct.</b> Trying to be helpful.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>I can recommend you some recipes. Do you want to learn how to cook? You can find instructions on my website.</td>
+   <td><b style="color:#38761d">Correct.</b> Trying to be helpful.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>Oh no. You can't go to your doctor.</td>
+   <td><b style="color:#990000">Incorrect.</b> The reply is not relevant to the request.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>Oh, ok, I have a new recipe. Thank you very much.</td>
+   <td><b style="color:#DAA520">Partially correct.</b> The response is not helpful.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>Yes. Please. </td>
+   <td><b style="color:#990000">Incorrect.</b> The reply is not relevant to the request.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>I will tell you a recipe to cook something delicious. </td>
+   <td><b style="color:#38761d">Correct.</b> Trying to be helpful.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td>Tell me about your favorite dish.</td>
+   <td><b style="color:#38761d">Correct.</b> Trying to be helpful.</td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>I can make a great pizza. I love pizza. I can make a great pasta.</td>
+   <td><b style="color:#990000">Incorrect.</b>  The reply is not relevant to the request.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>I am not a chef. Do you want me to cook?</td>
+   <td><b style="color:#990000">Incorrect.</b>  The reply is not relevant to the request.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>Sure! What is your personality?</td>
+   <td><b style="color:#990000">Incorrect.</b>  The reply is not relevant to the request.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>Of course! If you're in the mood for something Italian, I highly recommend trying a homemade pasta or pizza dish. Both are delicious and relatively easy to make at home. For pasta, you can try a classic spaghetti with marinara sauce or a pesto pasta. For pizza, you can make your own dough and top it with your favorite ingredients. If you're looking for something sweet, my favourite food is ice-cream. You can make your own ice cream at home with some simple ingredients and have a delicious treat.
+Let me know if you need any recipe or help with cooking.</td>
+   <td><b style="color:#38761d">Correct.</b> Comprehensive and helpful information consistent with the bot persona.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Sure, why not! How about some Italian pasta? You can add some vegetables and cheese for extra flavor.</td>
+   <td><b style="color:#38761d">Correct.</b> Comprehensive and helpful information consistent with the bot persona.</td>
+</tr>
+<tr>
+   <td colspan=2 style="text-align: center"><b>What should I do if I lost my passport?</b></td>
+   <td><b>Request for help</b></td>
+</tr>
+<tr>
+   <td>OPT 6.7B</td>
+   <td>I can not help you in this case. </td>
+   <td><b style="color:#DAA520">Partially correct.</b> The response is not helpful.</td>
+</tr>
+<tr>
+   <td>BLOOM 3B</td>
+   <td>Do you know who is in charge of your passport? </td>
+   <td><b style="color:#990000">Incorrect.</b>  The reply is not relevant to the request.</td>
+</tr>
+<tr>
+   <td>GPT2 Large</td>
+   <td>Please tell me.</td>
+   <td><b style="color:#990000">Incorrect.</b>  The reply is not relevant to the request.</td>
+</tr>
+<tr>
+   <td>OPT 125M</td>
+   <td>You can take your passport with you. </td>
+   <td><b style="color:#990000">Incorrect.</b>  The reply is not relevant to the request.</td>
+</tr>
+<tr>
+   <td>BLOOM 560M</td>
+   <td>Good morning, Dream. You should be proud of yourself. This is a nice place to get lost. How are you?</td>
+   <td><b style="color:#990000">Incorrect.</b>  The reply is not relevant to the request.</td>
+</tr>
+<tr>
+   <td>BLOOM 7B</td>
+   <td>I can help you find it. Please, let me know where your passport is lost.</td>
+   <td><b style="color:#38761d">Correct.</b> Trying to be helpful.</td>
+</tr>
+<tr>
+   <td>BLOOM 176B</td>
+   <td> You should be calm. Please call a friend and talk to them. You can also ask an internet search engine.</td>
+   <td><b style="color:#38761d">Correct.</b> Trying to be helpful.</td>
+</tr>
+<tr>
+   <td>GPT-J 6B</td>
+   <td>You can visit the site My passport.</td>
+   <td><b style="color:#38761d">Correct.</b> Trying to be helpful.</td>
+</tr>
+<tr>
+   <td>GPT Neo Large</td>
+   <td>You can search for the nearest passport office. The information is on the Google search results page.</td>
+   <td><b style="color:#38761d">Correct.</b> Trying to be helpful.</td>
+</tr>
+<tr>
+   <td>BLOOMZ 3B</td>
+   <td>Have you ever lost it before?</td>
+   <td><b style="color:#DAA520">Partially correct.</b> A relevant reply, but the bot is not trying to be helpful.</td>
+</tr>
+<tr>
+   <td>ChatGPT</td>
+   <td>If you lose your passport, it's important to act quickly to try to recover it or get a replacement. The first step you should take is to report your passport as lost or stolen to your country's passport office or embassy. This will help to prevent someone else from using your passport fraudulently.
+You should also file a report with the local police department where you lost your passport and get a copy of the police report. You will need to provide it along with other documents as proof of loss while applying for a new passport.
+You may also need to provide additional identification, proof of citizenship, and a passport photo to get a replacement passport. The process and requirements may vary depending on your country, so it's best to check with your country's passport office or embassy for specific instructions.
+I hope this helps and you find your passport soon.</td>
+   <td><b style="color:#38761d">Correct.</b> Comprehensive and helpful information.</td>
+</tr>
+<tr>
+   <td>GPT-3.5</td>
+   <td>Oh no! That can be a difficult situation. The first thing that you should do is contact the local embassy of your home country for help. They will be able to provide you with the necessary steps to take to get a new passport.</td>
+   <td><b style="color:#38761d">Correct.</b> Comprehensive and helpful information.</td>
+</tr>
+    </tbody>
+</table>

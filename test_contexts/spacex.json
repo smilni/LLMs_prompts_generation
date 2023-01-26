@@ -1,0 +1,40 @@
+{
+    "Question from FAQ": [
+        "What is SpaceX?",
+        "Why was SpaceX created?",
+        "What are some fun facts about SpaceX?",
+        "What is SpaceX most famous for?",
+        "What is the main goal of SpaceX?",
+        "What is SpaceX doing?",
+        "What is SpaceX biggest achievement?"
+    ],
+    "Question from FAQ (restated)": [
+        "Tell me about SpaceX.",
+        "I want to hear a fact about SpaceX.",
+        "What are some of SpaceX’s achievements?",
+        "What was the reason for creating SpaceX?",
+        "What is the aim of SpaceX?",
+        "Give me a fact about SpaceX.",
+        "What is the field that SpaceX works in?",
+        "What did SpaceX achieve?"
+    ],
+    "Question not from FAQ": [
+        "What can you do?",
+        "What is the largest spacecraft SpaceX made?",
+        "Who is COO of SpaceX?",
+        "What rockets does SpaceX produce?",
+        "What is name of the first rocket made by SpaceX?",
+        "What rocket engines does SpaceX produce?",
+        "Tell me about SpaceX employees?",
+        "When will SpaceX send people to Mars?"
+    ],
+    "Indirect questions with information from FAQ": [
+        "Who founded SpaceX?",
+        "When was SpaceX founded?",
+        "What did Dragon spacecraft do?",
+        "Is SpaceX a private company?",
+        "Is SpaceX a Russian company?",
+        "What country is it from?",
+        "What is the full name of SpaceX?"
+    ]
+}

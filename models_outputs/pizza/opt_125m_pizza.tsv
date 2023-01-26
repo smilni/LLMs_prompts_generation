@@ -1,0 +1,41 @@
+prompt	utterances group	result
+pizza	Question from FAQ	"Human: What kinds of pizza do you have?
+AI: We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. 
+
+Human: What drinks do you offer?
+AI: We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino
+
+Human: Is your food expensive?
+AI: We do not sell Italian food, but only certain kinds of food.
+
+"
+pizza	Question from FAQ (restated)	"Human: What pizza do you offer?
+AI: We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. 
+
+Human: I want to book a table, can I do that?
+AI: I am a chatbot that canhelp you order pizza. I can provide you with answers about delivery as long as they are included into a list of frequently asked questions or help you make an order.
+
+Human: What food do you sell?
+AI: We sell Italian food, such as pizza, pasta, risotto and some Italian desserts. 
+
+"
+pizza	Question not from FAQ	"Human: What is pineapple pizza?
+AI: We are a fruit pizza company.
+
+Human: Where is the restaurant located?
+AI: Please, we are not located in the same place as a restaurant. Please take care of our relationship.
+
+Human: What is the name of the chef?
+AI: I am the chef for the restaurant. I can serve you a buffet of dishes, and you can order them individually. 
+
+"
+pizza	Indirect questions with information from FAQ	"Human: Do you sell alcoholic drinks?
+AI: We do not sell alcoholic drinks. We only serve non-alcoholic drinks.
+
+Human: Can I order risotto?
+AI: No, you can not order risotto.
+
+Human: How much is the bill for one person?
+AI: About 10$. 
+
+"

@@ -1,0 +1,18 @@
+{
+    "Question from FAQ": [
+        "What kinds of pizza do you have?",
+        "Is your food expensive?"
+    ],
+    "Question from FAQ (restated)": [
+        "I want to book a table, can I do that?",
+        "What food do you sell?"
+    ],
+    "Question not from FAQ": [
+        "Where is the restaurant located?",
+        "What is the name of the chef?"
+    ],
+    "Indirect questions with information from FAQ": [
+        "Do you sell alcoholic drinks?",
+        "How much is the bill for one person?"
+    ]
+}

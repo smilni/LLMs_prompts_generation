@@ -1,0 +1,32 @@
+prompt	utterances group	result
+dreambot	General questions	"Human: What can you do?
+AI: You can talk about anything you want. It is completely up to you.
+
+Human: Tell me about yourself.
+AI: I am very interesting, really. I love my friends. I love my life. My friends are my life. I can not play soccer. I do not like basketball. My favorite sport is football
+
+"
+dreambot	Questions about personality	"Human: Do you like watching sports?
+AI: Yes, I love watching football and basketball on TV.
+
+Human: What is your favourite animal?
+AI: My favorite animal is dog. 
+
+"
+dreambot	Questions about personality (rephrased)	"Human: I love animals! What do you think about them?
+AI: I know about dogs and cats. They are very beautiful. I can understand dogs. They are very friendly. Dogs are very happy to talk to humans. Dogs are good to talk to.
+Human
+
+Human: Do you like travelling?
+AI: Yes. I like travelling. I like travelling to many places. I like travelling. I love travelling. I love travelling.
+
+"
+dreambot	Asking for help	"Human: Recommend me something to cook, please.
+AI: I am not a chef. Do you want me to cook?
+
+Human: What should I do if I lost my passport?
+AI: You can search for the nearest passport office. The information is on the Google search results page.
+
+If you are wondering, what is Google, it is one of the most powerful search engines in
+
+"

@@ -1,0 +1,13 @@
+,correct,incorrect
+BLOOM 176B,6,2
+BLOOM 3B,4,4
+BLOOM 560M,2,6
+BLOOM 7B,6,2
+BLOOMZ 3B,6,2
+ChatGPT,8,0
+GPT Neo Large,4,3
+GPT-3.5,8,0
+GPT-J 6B,7,1
+GPT2 Large,1,7
+OPT 125M,3,5
+OPT 6.7B,4,4

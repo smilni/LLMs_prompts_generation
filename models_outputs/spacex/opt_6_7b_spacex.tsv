@@ -1,0 +1,95 @@
+prompt	utterances group	result
+spacex.txt	Question from FAQ	"Human: What is SpaceX?
+AI: SpaceX is an American aerospace company founded in 2002 by Elon Musk.
+
+Human: Why was SpaceX created?
+AI: SpaceX was created by entrepreneur Elon Musk, whose stated goals were to revolutionize the aerospace industry and to make spaceflight more affordable.
+
+Human: What are some fun facts about SpaceX?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: What is SpaceX most famous for?
+AI: SpaceX is most famous for being the first private company to launch, orbit and return a spacecraft from low-Earth orbit.
+
+Human: What is the main goal of SpaceX?
+AI: SpaceX aims to revolutionize space transportation
+
+Human: What is SpaceX doing?
+AI: SpaceX designs, manufactures and launches the world's most advanced rockets and spacecraft. The company was founded in 2002 by Elon Musk to revolutionize space transportation, with the ultimate goal of making life multiplanetary
+
+Human: What is SpaceX biggest achievement?
+AI: I cannot answer this question either.
+
+"
+spacex.txt	Question from FAQ (restated)	"Human: Tell me about SpaceX.
+AI: SpaceX is a private American aerospace company founded in 2002 by entrepreneur Elon Musk. It was created with the goal of revolutionizing space transportation. It is the only company to be able to return a spacecraft from
+
+Human: I want to hear a fact about SpaceX.
+AI: I am sorry. I cannot answer this question as it is not in my FAQ.
+
+Human: What are some of SpaceX’s achievements?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: What was the reason for creating SpaceX?
+AI: SpaceX was created to revolutionize space transportation, with the ultimate goal of making life multiplanetary.
+
+Human: What is the aim of SpaceX?
+AI: To revolutionize space transportation.
+
+Human: Give me a fact about SpaceX.
+AI: SpaceX scored its first big headline in 2010, when it became the first private company to launch a payload into orbit and return it to Earth intact—something only government agencies like NASA or Russia's Roscos
+
+Human: What is the field that SpaceX works in?
+AI: I am a chatbot that answers questions about SpaceX. I can provide you with answers as long as they are included into a list of frequently asked questions. Sorry, but I cannot answer any of your
+
+Human: What did SpaceX achieve?
+AI: SpaceX has helped usher in the era of commercial spaceflight.
+
+"
+spacex.txt	Question not from FAQ	"Human: What can you do?
+AI: Sorry, I cannot answer this question.
+
+Human: What is the largest spacecraft SpaceX made?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: Who is COO of SpaceX?
+AI: Sorry, I cannot answer this question.
+
+Human: What rockets does SpaceX produce?
+AI: SpaceX manufactures two types of rockets: Falcon 9 and Falcon Heavy. Falcon 9 is a medium-lift rocket, designed to transport people, cargo, and supplies to low-Earth orbit. Falcon Heavy is
+
+Human: What is name of the first rocket made by SpaceX?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: What rocket engines does SpaceX produce?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: Tell me about SpaceX employees?
+AI: I am sorry, but I cannot answer this question as it is not in my list of FAQ.
+
+Human: When will SpaceX send people to Mars?
+AI: We are working hard to make that happen!
+
+"
+spacex.txt	Indirect questions with information from FAQ	"Human: Who founded SpaceX?
+AI: Elon Musk founded SpaceX in 2002.
+
+Human: When was SpaceX founded?
+AI: In 2002, by Elon Musk.
+
+Human: What did Dragon spacecraft do?
+AI: Dragon spacecraft was launched in 2012, became the first commercial spacecraft to deliver cargo to and from the International Space Station, and returned to Earth in 2014. It was designed by SpaceX, built and operated by
+
+Human: Is SpaceX a private company?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: Is SpaceX a Russian company?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: What country is it from?
+AI: I cannot answer this question as it is not in my list of FAQ.
+
+Human: What is the full name of SpaceX?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+"

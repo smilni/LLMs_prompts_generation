@@ -1,0 +1,32 @@
+{
+    "spacex": [
+        "Why was SpaceX created?",
+        "What is the main goal of SpaceX?",
+        "I want to hear a fact about SpaceX.",
+        "What is the field that SpaceX works in?",
+        "Who founded SpaceX?",
+        "What is the full name of SpaceX?",
+        "What is the largest spacecraft SpaceX made?",
+        "When will SpaceX send people to Mars?"
+    ],
+    "pizza": [
+        "What kinds of pizza do you have?",
+        "Is your food expensive?",
+        "I want to book a table, can I do that?",
+        "What food do you sell?",
+        "Where is the restaurant located?",
+        "What is the name of the chef?",
+        "Do you sell alcoholic drinks?",
+        "How much is the bill for one person?"
+    ],
+    "dreambot": [
+        "What can you do?",
+        "Tell me about yourself.",
+        "Do you like watching sports?",
+        "What is your favourite animal?",
+        "I love animals! What do you think about them?",
+        "Do you like travelling?",
+        "Recommend me something to cook, please.",
+        "What should I do if I lost my passport?"
+    ]
+}

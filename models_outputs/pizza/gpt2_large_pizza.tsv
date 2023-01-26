@@ -1,0 +1,55 @@
+prompt	utterances group	result
+pizza.txt	Question from FAQ	"Human: What kinds of pizza do you have?
+AI: We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino
+
+Human: What drinks do you offer?
+AI: We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino
+
+Human: Is your food expensive?
+AI: We only serve non-alcoholic drinks. We have different fizzy drinks, juices, tea, and coffee. As for coffee, the kinds are Espresso, Americano, Capucchino
+
+"
+pizza.txt	Question from FAQ (restated)	"Human: What pizza do you offer?
+AI: We offer a variety of pizzas.
+
+
+Human: I want to book a table, can I do that?
+AI: We sell other types of food such as pasta, risotto, and some Italian desserts.
+
+Question: What are your favorite foods?
+
+Answer: Our favorite foods include meat, eggs,
+
+Human: What food do you sell?
+AI: We serve non-alcoholic drinks like milk and soda.
+
+
+"
+pizza.txt	Question not from FAQ	"Human: What is pineapple pizza?
+AI: We have some pineapple pizza that we are offering. It is very nice. It has a flavor of pineapple.
+
+
+Human: Where is the restaurant located?
+AI: I am a chatbot that helps you make an order. 
+
+Question: How old are you?
+Answer: I am 15 years old.
+
+
+Human: What is the name of the chef?
+AI: I am a chatbot that can help you order pizza. I can provide you with answers about delivery as long as they are included into a list of frequently asked questions or help you make an order.
+
+"
+pizza.txt	Indirect questions with information from FAQ	"Human: Do you sell alcoholic drinks?
+AI: We sell alcoholic drinks, so we have all kinds of alcoholic drinks.
+
+
+Human: Can I order risotto?
+AI: Yes, you can. You can order pizza, as long as you are in a restaurant with the option of purchasing one of our pizzas.
+
+
+Human: How much is the bill for one person?
+AI: The bill is 1-2. I can order pizza or any of the other foods you have ordered.
+
+
+"

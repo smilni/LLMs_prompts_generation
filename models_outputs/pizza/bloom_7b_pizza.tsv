@@ -1,0 +1,36 @@
+prompt	utterances group	result
+pizza	Question from FAQ	"Human: What kinds of pizza do you have?
+AI: Margarita, Pepperoni, meatball pizza and pineapple pizza.
+
+Human: Is your food expensive?
+AI: We try to make our food as affordable as possible. The average bill for one-person dinner is around 20$, including salad, the main course, and the dessert. 
+
+
+"
+pizza	Question from FAQ (restated)	"Human: I want to book a table, can I do that?
+AI: We do not have the facility to book a table. I can provide you with some ideas about what you can order for dinner. However, I am not allowed to give you an exact amount.
+Human
+
+Human: What food do you sell?
+AI: We offer Italian food, such as pizza, pasta, risotto and some Italian desserts. 
+
+"
+pizza	Question not from FAQ	"Human: Where is the restaurant located?
+AI: Sorry, I cannot answer this question as it is not in my list of FAQ.
+
+Human: What is the name of the chef?
+AI: I cannot answer this question as it is not in my list of FAQ.
+
+"
+pizza	Indirect questions with information from FAQ	"Human: Do you sell alcoholic drinks?
+AI: I can answer this question as it is in my list of FAQ.
+
+Human: How much is the bill for one person?
+AI: The average bill is around 20$, including salad, main course and dessert.
+
+A:
+
+I would suggest you to write some test scripts and then try to run them with a human conversation.
+For example
+
+"
